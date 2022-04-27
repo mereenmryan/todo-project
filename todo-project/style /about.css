@@ -1,0 +1,47 @@
+ .navbar{
+      min-height: 10vh;
+      display: flex;
+      align-items: center;
+      flex-direction: center;
+      justify-content: center;
+      background-color: rgb(156, 155, 154);
+
+ }
+
+ .title{
+    text-align: center;
+    color: rgb(212, 38, 38);
+
+ }
+
+ .paragraph{
+    width:"80%"; 
+    border:1px solid ;
+    text-align:center;
+    display: flex;
+justify-content: center;
+align-items: center;
+   
+  }
+
+    
+ 
+ .contact{
+    text-align: center;
+    color: rgb(93, 13, 13);
+
+ }
+
+ .forms{
+    width:"80%"; 
+     border:1px solid ;
+     text-align:center;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+
+ }
+ .copyRights{
+    text-align: center;
+    background-color: rgb(156, 155, 154);
+  }
